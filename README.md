@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shivam Kumar 👋
 
-<!--
-**skshivamkr01-lang/skshivamkr01-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Machine Learning Engineer
 
-Here are some ideas to get you started:
+## About Me
+- Data Science student
+- Focused on Machine Learning and Algorithms
+- Preparing for FAANG-level engineering roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data Structures & Algorithms (Java)
+- Machine Learning
+- Deep Learning
+
+## Tech Stack
+Java • Python • NumPy • Pandas • Scikit-Learn • SQL • Git
+
+## Repositories
+- java-dsa → DSA preparation in Java
+- data-science-notes → Data science concepts and notes
+- ml-projects → Machine learning projects
+
+## Goals
+- Build strong AI/ML engineering skills
+- Contribute to open-source
